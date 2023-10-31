@@ -1,6 +1,6 @@
 ---
 layout: 'redirect'
-permalink: https://arv.codes
-redir_to: 'http://aravinds.bio.link'
+permalink: 'https://arv.codes/'
+redir_to: 'https://aravinds.bio.link/'
 sitemap: false
 ---
